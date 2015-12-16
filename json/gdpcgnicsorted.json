@@ -1,0 +1,77 @@
+[
+    {
+        "Country": "Monaco",
+        "GDPPC": 126599.403276628,
+        "GNIPC": 126599.403276628
+    },
+    {
+        "Country": "Liechtenstein",
+        "GDPPC": 104995.98550106,
+        "GNIPC": 89697.6567895157
+    },
+    {
+        "Country": "Luxembourg",
+        "GDPPC": 79595.5340773847,
+        "GNIPC": 70213.4879463879
+    },
+    {
+        "Country": "Norway",
+        "GDPPC": 66775.3943971756,
+        "GNIPC": 67506.419956294
+    },
+    {
+        "Country": "Iceland",
+        "GDPPC": 56611.30376533,
+        "GNIPC": 54342.4061742558
+    },
+    {
+        "Country": "Switzerland",
+        "GDPPC": 54797.5467533557,
+        "GNIPC": 59478.9121584946
+    },
+    {
+        "Country": "Qatar",
+        "GDPPC": 53207.3336473736,
+        "GNIPC": 46377.9688058117
+    },
+    {
+        "Country": "Ireland",
+        "GDPPC": 50569.0777622876,
+        "GNIPC": 43872.2203389433
+    },
+    {
+        "Country": "Denmark",
+        "GDPPC": 48816.8358639645,
+        "GNIPC": 49188.0382423918
+    },
+    {
+        "Country": "San Marino",
+        "GDPPC": 47035.6543494594,
+        "GNIPC": 41251.8849176994
+    },
+    {
+        "Country": "United States",
+        "GDPPC": 44307.9205848603,
+        "GNIPC": 44741.3107918178
+    },
+    {
+        "Country": "Sweden",
+        "GDPPC": 43085.353145957,
+        "GNIPC": 43667.6240957621
+    },
+    {
+        "Country": "Netherlands",
+        "GDPPC": 41199.7255630695,
+        "GNIPC": 41229.7496298917
+    },
+    {
+        "Country": "United Arab Emirates",
+        "GDPPC": 40298.5242178562,
+        "GNIPC": 40942.5074124562
+    },
+    {
+        "Country": "Andorra",
+        "GDPPC": 39990.3304085679,
+        "GNIPC": 39990.3304085679
+    }
+]
